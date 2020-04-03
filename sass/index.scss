@@ -1,0 +1,17 @@
+body{
+  #root {
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    img {
+      max-width: 500px;
+      max-height: 500px;
+    }
+  }
+  ::placeholder {
+    color: gray;
+  }
+}

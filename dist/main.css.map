@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","sources":["webpack:///./css/index.css"],"sourcesContent":["body {\n  background: #f40;\n}\n\ndiv:nth-child(even) {\n  background: #ff0;\n}"],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;","sourceRoot":""}

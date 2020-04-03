@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{90:function(e,n,o){"use strict";o.r(n),n.default=function(){var e=document.createElement("div");e.innerHTML="Hello Webpack",document.body.appendChild(e)}}}]);
+//# sourceMappingURL=2.index.js.map

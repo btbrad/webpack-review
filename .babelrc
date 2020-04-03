@@ -1,0 +1,11 @@
+{
+  "presets": [
+    [ "@babel/preset-env", {
+       "useBuiltIns": "usage", //按需注⼊
+       "corejs": 2
+      }
+    ],
+    "@babel/preset-react"
+  ],
+  // "plugins": ["@babel/plugin-transform-runtime"]
+}
